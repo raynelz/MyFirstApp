@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     @IBAction func buttonTapped(_ sender: Any) {
         print("Кнопка 💜")
         
-        view.backgroundColor = .systemBackground
+        view.backgroundColor = .systemPink
         
         mainText.textColor = .label
         mainText.textAlignment = .center
