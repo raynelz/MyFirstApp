@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func buttonTapped(_ sender: Any) {
-        print("Кнопка успешно нажата 💜")
+        print("Кнопка 💜")
         
         view.backgroundColor = .systemBackground
         
